@@ -7,6 +7,8 @@
 ## Project Description
 
 This project analyzes public transit data for Metro Vancouver using SQL to uncover insights into the transit system's operations. By leveraging a real-world GTFS (General Transit Feed Specification) dataset, this analysis identifies key patterns such as the busiest routes, most-served stops, and peak operational hours. The entire project is self-contained within a single SQL script that creates the necessary database schema, loads the data, and runs analytical queries.
+<img width="1382" height="798" alt="Screenshot 2025-07-29 at 3 51 26 PM" src="https://github.com/user-attachments/assets/4d376f19-4cfa-4c6f-bb19-29538730728a" />
+<img width="1291" height="654" alt="Screenshot 2025-07-29 at 3 51 41 PM" src="https://github.com/user-attachments/assets/cf2f04e3-8428-45f3-9fff-26c9465fddf1" />
 
 ---
 
